@@ -1,0 +1,21 @@
+# Compiled binaries and Fortran objects
+*.o
+*.mod
+*.exe
+bin/
+
+# Runtime simulation outputs (preserve bundled reference_output/)
+work_*/
+EVENTS.*
+LEVELS.*
+DICE.PRO
+PSF_*.DAT
+!examples/*/reference_output/
+!examples/*/reference_output/**
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~

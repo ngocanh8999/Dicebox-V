@@ -1,0 +1,10 @@
+* Resonance parameters (J=3) - Er (eV), 2gGn(red) (meV), Ggam(meV)
+  2
+  554.4     4.7    150.
+  595.7     0.034  150.     !uncertain J
+* Resonance parameters (J=3) - Er (eV), 2gGn(red) (meV), Ggam(meV)
+  4
+   -9.9     2.72   160.
+   44.9    30.0    150.
+  159.5     1.19   166.   
+  358.3    17.0    145. 
